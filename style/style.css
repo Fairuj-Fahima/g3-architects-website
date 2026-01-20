@@ -252,4 +252,11 @@ main{
     margin-left: 20px;
     margin-top: 20px;
 }
+.footer-container{
+    margin: 0 auto;
+}
+.footer-description{
+    margin: 100px 0 24px;
+    text-align: center;
+}
 }
